@@ -1,4 +1,4 @@
-# Data Analytics: Cardiovascular Disease
+# Data Analytics: Cardiovascular Disease Risk
 
 ## Introduction
 This project analyzes a dataset related to cardiovascular disease. The dataset is sourced from Kaggle and contains valuable information for understanding and predicting cardiovascular disease risk factors.
